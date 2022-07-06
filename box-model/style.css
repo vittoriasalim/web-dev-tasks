@@ -1,0 +1,70 @@
+/*==================== GOOGLE FONTS ====================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.trip-section{
+    margin-top: 10rem;
+    
+}
+.subheading{
+    text-align: center;
+    color:black;
+    font-family: 'Poppins';
+ 
+    font-size:3rem;
+}
+.travel-cards{
+    display: flex;
+    justify-content: center;
+  
+}
+/* background-color: rgb(217, 59, 48);
+    background-color: rgb(204, 45, 74);
+    background-color: rgb(188, 26, 110); */
+
+.first_card{
+    background-color: rgb(222, 49, 81);
+}
+.second_card{
+    background-color: rgb(217, 59, 48);
+}
+.third_card{
+    background-color: rgb(204, 45, 74);
+}
+.fourth_card{
+    background-color: rgb(188, 26, 110);
+}
+.card{
+    /* border: 2px solid black; */
+    border-radius: 1rem;
+
+    margin:1rem 1rem 1rem 1rem;
+    max-width: 250px;
+}
+.card-img{
+    width:100%;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+.card-body{
+    padding-top: 1.3rem;
+    padding-left: 1rem;
+    width:100%;
+    min-height: 140px;
+    color:white;
+
+}
+
+.card-title{
+    margin:0px 0px 0px 0px;
+    font-family: 'Poppins';
+    /* font-weight: 10px; */
+    /* font-family: 'Pacifico',cursive; */
+}
+.card-desc{
+    margin:0px 0px 0px 0px;
+    font-family: 'Poppins';
+    color:white;
+    
+}
