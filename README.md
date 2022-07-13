@@ -6,7 +6,4 @@
 ![](box-model/output.png)
 
 # Media query exercises : chegg- first section:
-![](chegg/output1.png)
-
-## Mobile demonstration
 ![](chegg/output2.png)
